@@ -1,4 +1,4 @@
 resolusi 2027
 - recall materi yang pernah dipelajar dibootcamp  
-- belajar dengan konsisten full stack javascript
 - membuat aplikasi untuk toko
+- belajar fullstack lagi step by step 
