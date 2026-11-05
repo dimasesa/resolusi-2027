@@ -1,11 +1,11 @@
 rencana tech stack
 - javascript
-  - ES6
-  - OOP
-  - Fundamental
+ - ES6
+ - OOP 
+ - asynchronous
 - react
 - fastify
-- express
+- express 
 - postgresql
 - mongodb
-- nextjs
+- python
