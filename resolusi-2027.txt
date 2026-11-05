@@ -1,0 +1,3 @@
+resolusi 2027
+- recall materi yang pernah dipelajar dibootcamp  
+- belajar dengan konsisten full stack javascript
