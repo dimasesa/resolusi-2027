@@ -4,6 +4,8 @@ rencana tech stack
  - OOP 
  - asynchronous
 - react
+  ^ Nextjs
+  ^ VueJs
 - fastify
 - express 
 - postgresql
